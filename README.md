@@ -1,3 +1,11 @@
+# this tutorial
+
+- https://twitter.com/0xca0a/status/1125167506031878144
+
+# similar tutorial
+
+- https://tympanus.net/codrops/2019/04/12/pulling-apart-svgs-with-reusable-webgl-components-using-react-three-fiber/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
